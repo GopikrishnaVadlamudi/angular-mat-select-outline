@@ -1,0 +1,15 @@
+.mat-option, -mat-option-text {
+    /* min-height: 3.78em; */
+    border-bottom: 1px solid lightgrey;
+    
+}
+.mat-form-field {
+  width: 300px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border-radius: 5px 5px 0px 0px;
+  opacity: 1;
+}
+
+.mat-form-field-appearance-outline .mat-form-field-infix {
+    padding: 0px 0px 0px 0px;
+}
